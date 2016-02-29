@@ -1,6 +1,6 @@
 # Dependencies
 markdown:        redcarpet
-highlighter:     pygments
+highlighter:     rouge
 jekyll-paginate: true
 # Permalinks
 permalink:       pretty
@@ -18,5 +18,3 @@ url:              http://hyde.getpoole.com
 author:
   name:           'Daniel Ternyak'
   url:            https://twitter.com/dternyak
-
-
