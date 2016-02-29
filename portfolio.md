@@ -8,7 +8,7 @@ title: Portfolio
 <a target="_blank" href="https://www.monerowallet.com"><h1>Monero Wallet</h1></a>
 
 
-<img src="http://danielternyak.com/dist/monerowallet.png"
+<img src="/public/images/monerowallet.png"
 alt="Monero Wallet"
 style="width: 450px; height: 250px; margin: auto"/>
 
@@ -23,7 +23,7 @@ An Android app was also built leveraging the same back-end.
 <a target="_blank" href="https://www.bitzipped.com"><h1>BitZipped</h1></a>
 
 
-<img src="http://danielternyak.com/dist/bitzipped.png"
+<img src="/public/images/bitzipped.png"
 alt="BitZipped"
 style="width: 450px; height: 250px; margin: auto"/>
 
@@ -39,7 +39,7 @@ and set a banner image they would like to display with their content.
 <a target="_blank" href="http://cryptoindex.com"><h1>CryptoIndex</h1></a>
 
 
-<img src="http://danielternyak.com/dist/cryptoindex.png"
+<img src="/public/images/cryptoindex.png"
 alt="CryptoIndex"
 style="width: 450px; height: 250px; margin: auto"/>
 
