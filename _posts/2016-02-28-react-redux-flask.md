@@ -18,6 +18,7 @@ Sometimes the back-end will be a BaaS (back-end as a service) like Firebase, but
 Now, for the front-end, there are two options.
 One is a back-end rendered template, which Jinja2 is a good option for. The other is an SPA (single-page application). These websites are dynamic and respond to the user without reloading (think Facebook or Google Maps).
 
+
 These are becoming increasingly popular.
 React is a popular choice for building SPA's, but it requires putting together a lot of other microlibraries to get everything working smoothly (for example, you need a library like redux to store data, and a library like react-redux-router to handle the front-end routing).
 This is a sample application that has everything built for you so you can get to building the app itself.
