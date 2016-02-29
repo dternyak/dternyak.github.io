@@ -34,17 +34,11 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48rem) {
+@media (min-width: 24rem) {
   html {
-    font-size: 16px;
+    font-size: 24px !important;
   }
 }
-@media (min-width: 58rem) {
-  html {
-    font-size: 20px;
-  }
-}
-
 
 /*
  * Sidebar
@@ -248,3 +242,5 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
