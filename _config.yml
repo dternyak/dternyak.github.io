@@ -1,0 +1,22 @@
+# Dependencies
+markdown:        redcarpet
+highlighter:     pygments
+jekyll-paginate: true
+# Permalinks
+permalink:       pretty
+gems: [jekyll-paginate]
+
+paginate: 5
+paginate_path: "page:num"
+
+# Setup
+title:            Daniel Ternyak
+tagline:          'A Jekyll theme'
+description:      'I build web applications with Python and JavaScript on the Cloud.'
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'Daniel Ternyak'
+  url:            https://twitter.com/dternyak
+
+
