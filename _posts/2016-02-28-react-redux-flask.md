@@ -1,7 +1,9 @@
 ---
 layout: post
-title: React-Redux-Flask, A Modern Web Application Boilerplate
+title: "React-Redux-Flask, A Modern Web Application Boilerplate"
+published: true
 ---
+
 
 ----
 
@@ -14,9 +16,10 @@ A modern web application is probably going to have a back-end and front-end.
 Sometimes the back-end will be a BaaS (back-end as a service) like Firebase, but Flask is another popular option
 (especially if you're using python).
 Now, for the front-end, there are two options.
-One is a back-end rendered template, which Jinja2 is a good option for.
+One is a back-end rendered template, which Jinja2 is a good option for. The other is an SPA (single-page application). These websites are dynamic and respond to the user without reloading (think Facebook or Google Maps).
 
-However, SPA's (single-page applications) are becoming more popular (think facebook or google maps).
+
+These are becoming increasingly popular.
 React is a popular choice for building SPA's, but it requires putting together a lot of other microlibraries to get everything working smoothly (for example, you need a library like redux to store data, and a library like react-redux-router to handle the front-end routing).
 This is a sample application that has everything built for you so you can get to building the app itself.
 
@@ -28,4 +31,3 @@ It includes:
 - React Router 2.0
 - SCSS processing
 - Webpack
-
