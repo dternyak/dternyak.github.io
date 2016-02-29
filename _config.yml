@@ -11,7 +11,7 @@ paginate_path: "page:num"
 
 # Setup
 title:            Daniel Ternyak
-tagline:          'A Jekyll theme'
+tagline:          'A Site About Myself'
 description:      'I build web applications with Python and JavaScript on the Cloud.'
 url:              http://hyde.getpoole.com
 
