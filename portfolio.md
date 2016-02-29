@@ -10,7 +10,7 @@ title: Portfolio
 
 <img src="/public/images/monerowallet.png"
 alt="Monero Wallet"
-style="width: 450px; height: 250px; margin: auto"/>
+style="width: 350px; height: 200px; margin: auto; padding-bottom: 20px;"/>
 
 <p>MoneroWallet is an AngularJS based CryptoCurrency Web Wallet for storing and sending Monero.
 It uses Firebase for its backend and Google App Engine for hosting.
@@ -25,7 +25,7 @@ An Android app was also built leveraging the same back-end.
 
 <img src="/public/images/bitzipped.png"
 alt="BitZipped"
-style="width: 450px; height: 250px; margin: auto"/>
+style="width: 350px; height: 200px; margin: auto; padding-bottom: 20px;"/>
 
 <p>BitZipped is a RESTfully designed web application for selling digital content using Bitcoin.
 Users can register and upload their content, customize the price,
@@ -41,7 +41,7 @@ and set a banner image they would like to display with their content.
 
 <img src="/public/images/cryptoindex.png"
 alt="CryptoIndex"
-style="width: 450px; height: 250px; margin: auto"/>
+style="width: 350px; height: 200px; margin: auto; padding-bottom: 20px;"/>
 
 <p>CryptoIndex is a dashboard for viewing CryptoCurrency prices.
 It uses data from CoinMarketCap retrieved via Web Scrapers and exposed via an API.
