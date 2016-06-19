@@ -71,7 +71,4 @@ published: false
 
 ### Principle 8 - Use encouragement. Make the fault seem easy to correct. 
 
-### Principle 9 - Make the other person happy about doing the thing you suggest. 
-
-
-
+### Principle 9 - Make the other person happy about doing the thing you suggest.
