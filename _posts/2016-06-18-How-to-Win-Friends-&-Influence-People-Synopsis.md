@@ -1,72 +1,70 @@
 ---
 published: true
 ---
-<h2 id="toc_1">Fundamental Techniques in Handling People</h2>
+## Fundamental Techniques in Handling People
 
-<p>Priciple 1 - Dont criticize, codenmn or complain. </p>
+Priciple 1 - Dont criticize, codenmn or complain.
 
-<p>Priciple 2 - Give honest and sincere appreciation. </p>
+Priciple 2 - Give honest and sincere appreciation.
 
-<p>Priciple 3 - Arouse in the other person an eager want. </p>
+Priciple 3 - Arouse in the other person an eager want.
 
-<h2 id="toc_2">Six Ways to Make People Like You</h2>
+Six Ways to Make People Like You
+Priciple 1 - Become genuinly interested in other people.
 
-<p>Priciple 1 - Become genuinly interested in other people.</p>
+Priciple 2 - Smile.
 
-<p>Priciple 2 - Smile.</p>
+Priciple 3 - Remember that a person is to that person the sweetest and most important sound in any langauge.
 
-<p>Priciple 3 Remember that a person is to that person the sweetest and most important sound in any langauge. </p>
+Priciple 4 - Be a good listener. Encourage others to talk about themselves.
 
-<p>Priciple 4 - Be a good listener. Encourage others to talk about themselves. </p>
+Priciple 5 - Talk in terms of the other person’s interests.
 
-<p>Priciple 5 - Talk in terms of the other person&rsquo;s interests. </p>
+Priciple 6 - Make the other person feel important - and do it sincerly.
 
-<p>Priciple 6 - Make the other person feel important - and do it sincerly. </p>
+## Win People to Your Way of Thinking
 
-<h2 id="toc_3">Win People to Your Way of Thinking</h2>
+Priciple 1 - The only way to get the best of an arguement is to avoid it.
 
-<p>Priciple 1 - The only way to get the best of an arguement is to avoid it. </p>
+Priciple 2 - Show respect for the other person’s opinions. Never say You’re wrong.
 
-<p>Priciple 2 - Show respect for the other person&rsquo;s opinions. Never say <q>You&rsquo;re wrong.</q></p>
+Priciple 3 - If you are wrong, admit it quickly and emphatically.
 
-<p>Priciple 3 - If you are wrong, admit it quickly and emphatically. </p>
+Priciple 4 - Begin in a friendly way.
 
-<p>Priciple 4 - Begin in a friendly way.</p>
+Priciple 5 - Get the other person saying yes, yes immediatly.
 
-<p>Priciple 5 - Get the other person saying <q>yes, yes</q> immediatly. </p>
+Priciple 6 - Let the other person do a great deal of the talking.
 
-<p>Priciple 6 - Let the other person do a great deal of the talking. </p>
+Priciple 7 - Let the other person feel that the diea is his or hers.
 
-<p>Priciple 7 - Let the other person feel that the diea is his or hers.</p>
+Priciple 8 - Try honestly to see things from the other person’s point of view.
 
-<p>Priciple 8 - Try honestly to see things from the other person&rsquo;s point of view.</p>
+Priciple 9 - Be sympathetic with the other persons’s ideas and desires.
 
-<p>Priciple 9 - Be sympathetic with the other persons&rsquo;s ideas and desires. </p>
+Priciple 10 - Appeal to the nobler motives.
 
-<p>Priciple 10 - Appeal to the nobler motives.</p>
+Priciple 11 - Dramatize your ideas.
 
-<p>Priciple 11 - Dramatize your ideas.</p>
+Priciple 12 - Throw down a challenge.
 
-<p>Priciple 12 - Throw down a challenge. </p>
+## Be a Leader
+_A leader’s job often includes changing your people’s attitudes and behavior. Some suggestions to commplish this:_
 
-<h2 id="toc_4">Be a Leader</h2>
+Principle 1 - Begin with praise and honest appreciation.
 
-<p><i>A leader&rsquo;s job often includes changing your people&rsquo;s attitudes and behavior. Some suggestions to commplish this:</i></p>
+Principle 2 - Call attention to people’s mistakes indirectly.
 
-<p>Principle 1 - Begin withPraise and honest appreciation.</p>
+Principle 3 - Talk about your own mistakes before critizicing the other person.
 
-<p>Principle 2 - Call attention  to people&rsquo;s mistakes indirectly. </p>
+Principle 4 - Ask questions instead of giving direct orders.
 
-<p>Principle 3 - Talk about your own mistakes before critizicing the other person.</p>
+Principle 5 - Let the other person save face.
 
-<p>Principle 4 - Ask questions instead of giving direct orders. </p>
+Principle 6 -Praise the slightest improvmenet andPraise every improvement. Be hearty in your approbation and lavish in yourPraise.
 
-<p>Principle 5 - Let the other person save face. </p>
+Principle 7 - Give the other person a fine reputation to live up to.
 
-<p>Principle 6 -Praise the slightest improvmenet andPraise every improvement. Be <q>hearty in your approbation and lavish in yourPraise</q>. </p>
+Principle 8 - Use encouragement. Make the fault seem easy to correct.
 
-<p>Principle 7 - Give the other person a fine reputation to live up to. </p>
-
-<p>Principle 8 - Use encouragement. Make the fault seem easy to correct. </p>
-
-<p>Principle 9 - Make the other person happy about doing the thing you suggest. </p>
+Principle 9 - Make the other person happy about doing the thing you suggest.
