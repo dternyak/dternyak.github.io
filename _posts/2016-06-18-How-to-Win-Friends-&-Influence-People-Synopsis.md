@@ -51,6 +51,7 @@ published: true
 
 
 ## Be a Leader 
+
 #### A leader's job often includes changing your people's attitudes and behavior. Some suggestions to commplish this:  
 
 ### Principle 1 - Begin with praise and honest appreciation.
