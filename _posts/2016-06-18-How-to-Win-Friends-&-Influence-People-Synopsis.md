@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# How to Win Friends & Influence People - Synopsis
-<hr/> 
 ## Fundamental Techniques in Handling People
 
  Priciple 1 - Dont criticize, codenmn or complain. 
