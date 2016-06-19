@@ -27,7 +27,7 @@ Priciple 6 - Make the other person feel important - and do it sincerly.
 
 Priciple 1 - The only way to get the best of an arguement is to avoid it. 
 
-Priciple 2 - Show respect for the other person's opinions. Never say "Your're wrong."
+Priciple 2 - Show respect for the other person's opinions. Never say "You're wrong."
 
 Priciple 3 - If you are wrong, admit it quickly and emphatically. 
 
