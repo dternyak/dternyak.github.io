@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+-----
 ## Fundamental Techniques in Handling People
 
 Priciple 1 - Dont criticize, codenmn or complain. 
@@ -69,7 +70,4 @@ Principle 7 - Give the other person a fine reputation to live up to.
 
 Principle 8 - Use encouragement. Make the fault seem easy to correct. 
 
-Principle 9 - Make the other person happy about doing the thing you suggest. 
-
-
-
+Principle 9 - Make the other person happy about doing the thing you suggest.
