@@ -9,7 +9,8 @@ Priciple 2 - Give honest and sincere appreciation.
 
 Priciple 3 - Arouse in the other person an eager want.
 
-Six Ways to Make People Like You
+## Six Ways to Make People Like You
+
 Priciple 1 - Become genuinly interested in other people.
 
 Priciple 2 - Smile.
