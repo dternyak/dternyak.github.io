@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Fundamental Techniques in Handling People
 
