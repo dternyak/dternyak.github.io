@@ -3,7 +3,7 @@ published: true
 ---
 ---
 layout: post
-title: "How to Win Friends & Influence People - Synopsis"
+title: "How to Win Friends & Influence People - Synopsis" 
 published: true
 ---
 
