@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Portfolio
+published: true
 ---
 
 <hr>
 <div style="text-align: center;">
-<a target="_blank" href="https://www.monerowallet.com"><h1>Monero Wallet</h1></a>
+<h1>Monero Wallet</h1>
 
 
 <img src="/public/images/monerowallet.png"
@@ -20,7 +21,7 @@ This is used to sign transactions which are later broadcast to the Monero Networ
 An Android app was also built leveraging the same back-end.
 </p>
 <hr>
-<a target="_blank" href="https://www.bitzipped.com"><h1>BitZipped</h1></a>
+<h1>BitZipped</h1>
 
 
 <img src="/public/images/bitzipped.png"
@@ -36,7 +37,7 @@ and set a banner image they would like to display with their content.
 
 
 <hr>
-<a target="_blank" href="http://cryptoindex.com"><h1>CryptoIndex</h1></a>
+<h1>CryptoIndex</h1>
 
 
 <img src="/public/images/cryptoindex.png"
